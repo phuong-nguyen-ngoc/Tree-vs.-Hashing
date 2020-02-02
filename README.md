@@ -1,2 +1,6 @@
 # Tree-vs.-Hashing
-This project focus on the application of Hashmap and compares it with other data structure
+This project focuses on the application of Hashmap to process and store data. It also compares computational efficiency of Hashmap and other data structures
+
+
+
+
